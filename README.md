@@ -1,0 +1,2 @@
+# mygit
+First git project
